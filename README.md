@@ -12,7 +12,9 @@ Neste projeto nós criamos do zero aplicando as seguintes tecnologias.
 - React Native;
 - Native Base;
 - Tab Navtaion;
-- Rotas Públicas e privadas
-- Validação em formulários
+- Rotas Públicas e privadas;
+- Validação em formulários;
+- Babel Plugin Module Resolve;
 
-Comando utilizado para criar a aplicação: `npx create-expo-app ignite-gym --template`
+Comando para criar a aplicação: `npx create-expo-app ignite-gym --template`
+Instalação do babel: `npm install --save-dev babel-plugin-module-resolver`
