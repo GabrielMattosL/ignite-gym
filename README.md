@@ -18,3 +18,4 @@ Neste projeto nós criamos do zero aplicando as seguintes tecnologias.
 
 Comando para criar a aplicação: `npx create-expo-app ignite-gym --template`
 Instalação do babel: `npm install --save-dev babel-plugin-module-resolver`
+Instalação do expo google fonts: `npx expo install expo-font @expo-google-fonts/roboto`
